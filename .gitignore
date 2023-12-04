@@ -68,7 +68,7 @@ getgenv().DNS = {
 
         FOV = {
 
-            UseFOV = true,
+            UseFOV = false,
 
             ShowFOV = false,
 
