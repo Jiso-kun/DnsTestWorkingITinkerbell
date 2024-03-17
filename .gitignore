@@ -14,7 +14,7 @@ getgenv().DNS = {
 
             Enabled = true,
 
-            Mode = "Target",
+            Mode = "Silent",
 
             Toggle = "Q",
 
@@ -28,7 +28,7 @@ getgenv().DNS = {
 
             ShowFOV = false,
 
-            Radius = 35,
+            Radius = 80,
 
             Color = Color3.fromRGB(0, 71, 171),
 
@@ -72,7 +72,7 @@ getgenv().DNS = {
 
             ShowFOV = false,
 
-            Radius = 55,
+            Radius = 60,
 
             Color = Color3.fromRGB(0, 71, 171),
 
