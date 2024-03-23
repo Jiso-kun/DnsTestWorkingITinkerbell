@@ -52,13 +52,13 @@ getgenv().DNS = {
 
             SmoothLock = true,
 
-            Smoothness = 0.5,
+            Smoothness = 4,
 
             PredictMovement = true,
 
             Prediction = 0.1437,
 
-            Shake = true,
+            Shake = false,
 
             ShakeValue = 3.2,
 
