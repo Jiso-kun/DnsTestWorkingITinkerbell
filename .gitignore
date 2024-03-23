@@ -16,7 +16,7 @@ getgenv().DNS = {
 
             Mode = "Silent",
 
-            Toggle = "Q",
+            Toggle = "C",
 
             Prediction = 0.13731284913,
 
